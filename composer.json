@@ -1,0 +1,6 @@
+{
+    "name": "glendemon/phpexcel-wrapper",
+    "require": {
+        "phpoffice/phpexcel": "1.*"
+    }
+}
